@@ -1,2 +1,2 @@
 # COP-3003-Integration-Project
-Certification Exam Preparation Program
+The integration project for my Programming II class that I will be developing is a Certification Exam Preparation Program. 
